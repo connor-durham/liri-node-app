@@ -11,15 +11,22 @@ The goal of the Liri app is to create four seperate functions that can be called
    
 # Examples
 
+Each function has two pictures below. The first picture is what the function input looks like in the command line itself, while the second picture is what that command returns based on the inputs for each function.
+
 ## spotify-this
 
+For this example I used the hip-hop group Migos. It runs the function 5 times, and the "null" response for four of them is due to the lack of available spotify preview URL for those tracks.
+
 ![alt text](https://i.imgur.com/XlWCH5O.jpg)
+
 
 ![alt text](https://i.imgur.com/JNvPxCw.jpg)
 
 
 
 ## movie-this
+
+For this example I used the film "Interstellar". This function only runs one time and returns data for that first result.
 
 ![alt text](https://i.imgur.com/5f7gVG4.jpg)
 
@@ -29,6 +36,8 @@ The goal of the Liri app is to create four seperate functions that can be called
 
 ## concert-this
 
+For this example I used the hip-hop artist Post Malone, who I knew had some upcoming shows. Like spotify-this, it runs five times and returns the first five results.
+
 ![alt text](https://i.imgur.com/Vye2f6x.jpg)
 
 ![alt text](https://i.imgur.com/pqFLy7d.jpg)
@@ -36,6 +45,8 @@ The goal of the Liri app is to create four seperate functions that can be called
 
 
 ## random-this
+
+For this example, the random.txt file is pictured below. It includes the "spotify-this" function selection, as well as a string for the song "I Want It That Way". Because this is only a song title, it returns information for several different artists that have a song with this title
 
 ![alt text](https://i.imgur.com/3muFXpg.jpg)
 
