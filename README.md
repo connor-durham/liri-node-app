@@ -29,9 +29,9 @@ The goal of the Liri app is to create four seperate functions that can be called
 
 ## concert-this
 
-![alt text]()
+![alt text](https://i.imgur.com/Vye2f6x.jpg)
 
-![alt text]()
+![alt text](https://i.imgur.com/pqFLy7d.jpg)
 
 
 
