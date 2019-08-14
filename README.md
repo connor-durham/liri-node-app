@@ -11,4 +11,8 @@ The goal of the Liri app is to create four seperate functions that can be called
    
 # Examples
 
+## spotify-this
+
+![GitHub Logo](Document/code/liri-node-app/spotify-this-1.jpg)
+Format: ![Alt Text](url)
 
