@@ -37,6 +37,6 @@ The goal of the Liri app is to create four seperate functions that can be called
 
 ## random-this
 
-![alt text]()
+![alt text](https://i.imgur.com/3muFXpg.jpg)
 
-![alt text]()
+![alt text](https://i.imgur.com/40Q1jq9.jpg)
