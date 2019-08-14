@@ -17,3 +17,26 @@ The goal of the Liri app is to create four seperate functions that can be called
 
 ![alt text](https://i.imgur.com/JNvPxCw.jpg)
 
+
+
+## movie-this
+
+![alt text]()
+
+![alt text]()
+
+
+
+## concert-this
+
+![alt text]()
+
+![alt text]()
+
+
+
+## random-this
+
+![alt text]()
+
+![alt text]()
