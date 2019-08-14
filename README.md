@@ -15,3 +15,5 @@ The goal of the Liri app is to create four seperate functions that can be called
 
 ![alt text](https://i.imgur.com/XlWCH5O.jpg)
 
+![alt text](https://i.imgur.com/JNvPxCw.jpg)
+
