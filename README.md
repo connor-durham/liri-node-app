@@ -21,9 +21,9 @@ The goal of the Liri app is to create four seperate functions that can be called
 
 ## movie-this
 
-![alt text]()
+![alt text](https://i.imgur.com/5f7gVG4.jpg)
 
-![alt text]()
+![alt text](https://i.imgur.com/FiCSRDw.jpg)
 
 
 
